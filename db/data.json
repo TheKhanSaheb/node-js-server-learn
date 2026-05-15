@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "customer": "আরিফ হোসেন",
+    "quantity": 2,
+    "food": "বিরিয়ানি",
+    "price": 450
+  },
+  {
+    "id": 2,
+    "customer": "রাকিবুল ইসলাম",
+    "quantity": 1,
+    "food": "খিচুড়ি",
+    "price": 180
+  },
+  {
+    "id": 3,
+    "customer": "তানভীর আহমেদ",
+    "quantity": 3,
+    "food": "কাচ্চি",
+    "price": 1200
+  },
+  {
+    "id": 4,
+    "customer": "সিয়াম রহমান",
+    "quantity": 2,
+    "food": "চিকেন রোল",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "customer": "ইমরান খান",
+    "quantity": 4,
+    "food": "ফুচকা",
+    "price": 240
+  },
+  {
+    "id": 6,
+    "customer": "নাঈম শেখ",
+    "quantity": 1,
+    "food": "হালিম",
+    "price": 200
+  },
+  {
+    "id": 7,
+    "customer": "মাহিম চৌধুরী",
+    "quantity": 5,
+    "food": "চাপ",
+    "price": 750
+  },
+  {
+    "id": 8,
+    "customer": "শাহরিয়ার কবির",
+    "quantity": 2,
+    "food": "চাউমিন",
+    "price": 350
+  },
+  {
+    "id": 9,
+    "customer": "সাকিব হাসান",
+    "quantity": 3,
+    "food": "বিফ তেহারি",
+    "price": 900
+  },
+  {
+    "id": 10,
+    "customer": "জুবায়ের আলম",
+    "quantity": 1,
+    "food": "মিষ্টি দই",
+    "price": 120
+  }
+]
