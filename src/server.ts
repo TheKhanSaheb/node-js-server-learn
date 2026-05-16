@@ -1,6 +1,7 @@
 import { createServer, IncomingMessage, type Server } from "node:http";
 import { sendResponse } from "./utilitis";
-import { Orders_Route } from "./Routes/Order_route";
+import { orderRoute } from "./Routes/Order_route";
+import type { Req } from "./types";
 
 const server: Server = createServer((req, res) => {
    
@@ -11,7 +12,7 @@ const url = req.url ?? "/";
     }
 
     if (url.startsWith("/orders")) {
-       Orders_Route(req, res);
+       orderRoute(req as Req, res);
         return;
     }
 
